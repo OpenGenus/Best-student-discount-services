@@ -32,4 +32,9 @@ This is a humble list to document the best services providing student discounts 
 
 * [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
 
+# Courses
+
+* [Faltiron School](): Free one-month membership ($149 value) to Community-Powered Bootcamp
+
+* [Thinkful](): One month of access to a web development course 
 
