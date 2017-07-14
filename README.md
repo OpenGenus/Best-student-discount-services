@@ -62,4 +62,10 @@ This is a humble list to document the best services providing student discounts 
 
   * [NameCheap](http://nc.me) - One year domain name registration on the .me TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
+# Collective discounts
+
+* [Student Developer Pack](https://education.github.com/pack): Discounts on several software products
+
+* [Student Advantage card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on variety of products
+
 
