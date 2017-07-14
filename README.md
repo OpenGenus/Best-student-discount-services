@@ -6,6 +6,7 @@ This is a humble list to document the best services providing student discounts 
 
 * [Electronic devices]()
 * [Vehicles]()
+* [Food]()
 * [Apparel]()
 * [Courses]()
 * [Entertainment](#entertainment)
@@ -33,6 +34,24 @@ This is a humble list to document the best services providing student discounts 
 * [Chevrolet](http://www.chevrolet.com/discounts): Discounts available on selected models for professors and students
 
 * [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
+
+# Food
+
+* [Arby’s](): Offers a 10% discount at certain locations with your student ID.
+
+* [Buffalo Wild Wings](): Get a 10% discount off those flaming wings with your student ID 
+
+* [Burger King](): 10% discount when you flash your ID 
+
+* [Chick-fil-A](): Get a free small drink to accompany your chicken sandwich and waffle fries (or any meal) when you show your ID.
+
+* [Chipotle](): Offer a free small drink with your meal when you show your student ID.
+
+* [Dairy Queen](): Offer a 10% discount for students with ID. 
+
+* [McDonalds](): 10% discount with your student ID 
+
+* [Qdoba](): Offers a free drink for students when you purchase a meal, as well as burrito meals for $5.
 
 # Apparel
 
