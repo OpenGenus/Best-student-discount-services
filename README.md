@@ -6,6 +6,8 @@ This is a humble list to document the best services providing student discounts 
 
 * [Electronic devices]()
 * [Vehicles]()
+* [Apparel]()
+* [Courses]()
 * [Entertainment](#entertainment)
 * [Lens and spectacles]()
 * [Web hosting]()
@@ -31,6 +33,22 @@ This is a humble list to document the best services providing student discounts 
 * [Chevrolet](http://www.chevrolet.com/discounts): Discounts available on selected models for professors and students
 
 * [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
+
+# Apparel
+
+* [Alex and Ani](): Students get 10% off in stores with a when you flash a valid school ID. 
+
+* [ASOS](): Stay stylish with 10% off ASOS duds.
+
+* [Banana Republic](), [J.Crew](), [The Limited](), [Medelita](), [Madewell](): 15% off 
+
+* [Club Monaco](): 20% off regular and sale priced items in any Club Monaco store and online.
+
+* [Goodwill](): 10% discount with student ID.
+
+* [TOMS](): 10% cash back on shoes 
+
+* [Topshop](): 10% off Topshop apparel in stores and online.
 
 # Courses
 
