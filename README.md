@@ -44,4 +44,10 @@ This is a humble list to document the best services providing student discounts 
 
 * [Regal Cinemas](https://www.regmovies.com/help/entry/student-discount): Find local theaters offering student discounts
 
+# Lens and spectacles
+
+* [Glasses USA](https://www.glassesusa.com/students-discount): 55% off frames with clear single-vision lenses.
+
+* [Lenstore.co.uk](https://www.lenstore.co.uk/unidays-student-discount): 15% Off on the first order
+
 
