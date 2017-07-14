@@ -38,3 +38,10 @@ This is a humble list to document the best services providing student discounts 
 
 * [Thinkful](): One month of access to a web development course 
 
+# Entertainment
+
+* [Cinemark](http://www.cinemark.com/discounts-student-discounts): Get discounts on movie tickets; 25% OFF pre-paid movie tickets through [SA card](http://www.studentadvantage.com/discountcard/)
+
+* [Regal Cinemas](https://www.regmovies.com/help/entry/student-discount): Find local theaters offering student discounts
+
+
