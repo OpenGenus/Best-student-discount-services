@@ -50,4 +50,12 @@ This is a humble list to document the best services providing student discounts 
 
 * [Lenstore.co.uk](https://www.lenstore.co.uk/unidays-student-discount): 15% Off on the first order
 
+# Web Hosting
+
+  * [Digital Ocean](https://www.digitalocean.com) - Provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
+
+  * [Gwiddle](https://gwiddle.co.uk) - Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. 
+
+  * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`. 
+
 
