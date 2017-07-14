@@ -26,4 +26,10 @@ This is a humble list to document the best services providing student discounts 
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, save up to 10% on merchandise.
 
+# Vehicles
+
+* [Chevrolet](http://www.chevrolet.com/discounts): Discounts available on selected models for professors and students
+
+* [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
+
 
