@@ -200,9 +200,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Courses
 
-* [Faltiron School](): Free one-month membership ($149 value) to Community-Powered Bootcamp
+* [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
 
-* [Thinkful](): One month of access to a web development course 
+* [Thinkful](https://www.thinkful.com/): One month of access to a web development course 
 
 # Entertainment
 
