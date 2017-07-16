@@ -1,6 +1,6 @@
 ## Best services providing student discounts one must try
 
-This is a humble list to document the best services providing student discounts so that every student can take the benefit of all these services.
+A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try. 
 
 # Table of contents
 
