@@ -229,5 +229,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [NameCheap](http://nc.me) - One year domain name registration on the .me TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
 
+---
 
+<p align="center">
+	<a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
+</p>
 
