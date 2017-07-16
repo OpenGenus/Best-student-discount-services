@@ -97,6 +97,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Xamarin IDE](http://xamarin.com/student): Free for students.
 
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students.
+  
+  * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc.
 
 ### 3D Animation and Modeling Software
 
