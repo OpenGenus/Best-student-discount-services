@@ -1,5 +1,11 @@
 ## Best services providing student discounts one must try
 
+<h1 align="center">
+	<br>
+	<img width="200" src="https://github.com/AdiChat/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
+	<br>
+</h1>
+
 A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try. 
 
 # Table of contents
