@@ -1,5 +1,7 @@
 ## Best services providing student discounts one must try
 
+[![Join the chat at https://gitter.im/OpenGenus/Best-student-discount-services](https://badges.gitter.im/AdiChat/Best-student-discount-services.svg)](https://gitter.im/OpenGenus/Best-student-discount-services)
+
 <h1 align="center">
 	<br>
 	<img width="200" src="https://github.com/AdiChat/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
