@@ -162,6 +162,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Budget Truck Rental](https://www.budgettruck.com/): Up to 20% off truck rental
 
+* [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts): 25% off Monthly Pass, 7-Day Pass, One-Way and Round-Trip tickets
+
 # Food
 
 * [Arby’s](): Offers a 10% discount at certain locations with your student ID.
