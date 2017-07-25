@@ -10,6 +10,11 @@
 
 A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try. 
 
+***
+
+# translations
+- [中文版本](translations/README-cn.md)
+
 # Table of contents
 
 * [Collective discounts](#collective-discounts)
