@@ -4,7 +4,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="200" src="https://github.com/imfing/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
+	<img width="200" src="https://github.com/OpenGenus/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
 	<br>
 </h1>
 
