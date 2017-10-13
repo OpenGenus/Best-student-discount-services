@@ -160,7 +160,7 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Harrah's Laughlin](https://www.totalrewards.com/reserve/): 15% di sconto sulla prenotazione.
 
-# Travel
+# Viaggi
 
 * [Eurail](http://www.eurail.com/eurail-passes/deals-discounts/youth-discounts): 35% di sconto sulla tariffa Adulti per studenti sotto i 25 anni.
 
@@ -168,77 +168,77 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Budget Truck Rental](https://www.budgettruck.com/): Fino al 20% di sconto sul noleggio di un camion.
 
-* [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts): 25% off Monthly Pass, 7-Day Pass, One-Way and Round-Trip tickets
+* [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts): 25% di sconto sull'abbonamento mensile, settimanale, singolo viaggio e andata e ritorno.
 
-# Food
+# Cibo
 
-* [Arby’s](#): Offers a 10% discount at certain locations with your student ID
+* [Arby’s](#): Offre uno sconto del 10% su certi punti vendita presentando il proprio ID studenti.
 
-* [Buffalo Wild Wings](#): Get a 10% discount off those flaming wings with your student ID
+* [Buffalo Wild Wings](#): Ottieni uno sconto del 10% sulle alette di pollo piccanti presentando l'ID studenti.
 
-* [Burger King](#): 10% discount when you flash your ID
+* [Burger King](#): 10% di sconto mostrando il proprio identificativo.
 
-* [Chick-fil-A](#): Get a free small drink to accompany your chicken sandwich and waffle fries (or any meal) when you show your ID
+* [Chick-fil-A](#): Ottieni una bibita piccola gratuita acquistando un sandwich al pollo o un qualsiasi altro pasto mostrando il proprio identificativo studenti.
 
-* [Chipotle](#): Offers a free small drink with your meal when you show your student ID
+* [Chipotle](#): Ottieni una bibita piccola gratuita mostrando l'ID studenti.
 
-* [Dairy Queen](#): Offers a 10% discount for students with ID.
+* [Dairy Queen](#): Offre uno sconto del 10%.
 
-* [McDonalds](#): 10% discount with your student ID
+* [McDonalds](#): Offre uno sconto del 10%.
 
-* [Qdoba](#): Offers a free drink for students when you purchase a meal, as well as burrito meals for $5
+* [Qdoba](#): Offre una bibita gratis agli studenti quando acquisti un pranzo o un menù burrito per 5$.
 
-# Apparel
+# Abbigliamento
 
-* [Alex and Ani](#): Students get 10% off in stores with a when you flash a valid school ID.
+* [Alex and Ani](#): Gli studenti ottengono uno sconto del 10% negli store mostrando il proprio ID.
 
-* [ASOS](#): Stay stylish with 10% off ASOS duds
+* [ASOS](#): Sconto del 10%.
 
-* [Banana Republic](#), [J.Crew](), [The Limited](), [Medelita](), [Madewell](): 15% off
+* [Banana Republic](#), [J.Crew](), [The Limited](), [Medelita](), [Madewell](): Sconto del 15%.
 
-* [Club Monaco](#): 20% off regular and sale priced items in any Club Monaco store and online
+* [Club Monaco](#): Sconto del 20% su prodotti a prezzo pieno e in sconto in ogni store Club Monaco e online.
 
-* [Goodwill](#): 10% discount with student ID
+* [Goodwill](#): Sconto del 10%.
 
-* [TOMS](#): 10% cash back on shoes
+* [TOMS](#): Rimborso del 10% acquistando delle scarpe.
 
-* [Topshop](#): 10% off Topshop apparel in stores and online
+* [Topshop](#): Sconto del 10% nei negozi e online.
 
-# Vehicles
+# Veicoli
 
-* [Chevrolet](http://www.chevrolet.com/discounts): Discounts available on selected models for professors and students
+* [Chevrolet](http://www.chevrolet.com/discounts): Sconti disponibili in certi modelli per studenti e professori.
 
-* [GM](https://www.gmcollegediscount.com/vehicles/): Discounts available on selected models of 3 brands
+* [GM](https://www.gmcollegediscount.com/vehicles/): Sconti disponibili in prodotti selezionati in tre brand.
 
-# Courses
+# Corsi
 
-* [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
+* [Faltiron School](https://flatironschool.com/): Un mese gratuito (149$ di valore) in un bootcamp gestito dalla comunità.
 
-* [Thinkful](https://www.thinkful.com/): One month of access to a web development course
+* [Thinkful](https://www.thinkful.com/): Un mese di accesso a un corso di sviluppo web.
 
-# Entertainment
+# Intrattenimento
 
-* [Cinemark](http://www.cinemark.com/discounts-student-discounts): Get discounts on movie tickets; 25% OFF pre-paid movie tickets through [SA card](http://www.studentadvantage.com/discountcard/)
+* [Cinemark](http://www.cinemark.com/discounts-student-discounts): Ottieni sconti sui biglietti; 25% di sconto sulle prenotazioni via [SA card](http://www.studentadvantage.com/discountcard/)
 
-* [Regal Cinemas](https://www.regmovies.com/help/entry/student-discount): Find local theaters offering student discounts
+* [Regal Cinemas](https://www.regmovies.com/help/entry/student-discount): Trova i cinema nella tua zona che offrono sconti agli studenti
 
-# Lens and spectacles
+# Lenti e occhiali
 
-* [Glasses USA](https://www.glassesusa.com/students-discount): 55% off frames with clear single-vision lenses
+* [Glasses USA](https://www.glassesusa.com/students-discount): 55% di sconto su montature con lenti monofocali.
 
-* [Lenstore.co.uk](https://www.lenstore.co.uk/unidays-student-discount): 15% off on the first order
+* [Lenstore.co.uk](https://www.lenstore.co.uk/unidays-student-discount): 15% di sconto sul primo ordine.
 
 # Web Hosting
 
-  * [Digital Ocean](https://www.digitalocean.com) - Provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack)
+  * [Digital Ocean](https://www.digitalocean.com) - Offre 50$ in crediti nella piattaforma per ogni studente che si iscrive attraverso [Github Student Developer Pack](https://education.github.com/pack).
 
-  * [Gwiddle](https://gwiddle.co.uk) - Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students.
+  * [Gwiddle](https://gwiddle.co.uk) - Offre hosting per 2 siti internet, 5 account email, 4 database MySQL, 4 cron job, 1.5GB di banda e 2GB di spazio su disco gratuitamente a studenti verificati.
 
-  * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`.
+  * [RoseHosting](https://www.rosehosting.com)  - Offre il 20% di sconto sulle loro [Linux VPS gestite](https://www.rosehosting.com/linux-vps-hosting.html) e [piani di hosting condivisi](https://www.rosehosting.com/linux-shared-hosting.html) pagando mensilmente. Gli studenti possono ottenere lo sconto applicando il codice sconto `STUDENT20`.
 
-# Domain Name
+# Domini internet
 
-  * [NameCheap](http://nc.me) - One year of free domain name registration on the .me TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
+  * [NameCheap](http://nc.me) - Un anno di un dominio .me gratuito (18.99$ all'anno) [Github Student Developer Pack](https://education.github.com/pack)
 
 
 ---
