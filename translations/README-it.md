@@ -40,17 +40,17 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 # Sconti generali
 
-* [International Student Identity Card](https://www.isic.org/): Any full-time student over 12 years old qualifies for 42,000 discounts in 130 countries
+* [International Student Identity Card](https://www.isic.org/): Ogni studente a tempo pieno di età superiore a 12 anni è idoneo a 42,000 sconti in 130 paesi.
 
-* [Github Student Developer Pack](https://education.github.com/pack): Discounts on several software products offered through Github
+* [Github Student Developer Pack](https://education.github.com/pack): Sconti in diversi prodotti software offerti attraverso GitHub.
 
-* [Student Advantage card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on variety of products
+* [Student Advantage card](http://www.studentadvantage.com/discountcard/): Risparmia soldi in oltre 100 brand nazionali su una varietà di prodotti (Solo in USA).
 
-* [AWS Educate](https://www.awseducate.com/microsite/CommunitiesEngageHome): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
+* [AWS Educate](https://www.awseducate.com/microsite/CommunitiesEngageHome): crediti per accedere gratis ai servizi AWS. Laboratori gratuiti in servizi come EC2, S3 e molti altri.
 
-* [Microsoft Education](https://www.microsoft.com/en-in/education/students/default.aspx): Free Micrsoft Office 365 and other discounts on MS products
+* [Microsoft Education](https://www.microsoft.com/en-in/education/students/default.aspx): Microsoft 365 gratuito e altri sconti in vari prodotti MS.
 
-* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Prime movies and TV shows, unlimited photo storage with Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the period
+* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): un periodo di prova di sei mesi che include spedizione in due giorni gratuita, streaming illimitato di film e serie tv Prime, spazio illimitato per le tue foto con Prime Foto, 20% di sconto sui preordini e le nuove uscite di videogiochi, sconti e risparmi esclusivi e molto altro! 50% di sconto sul prezzo base terminato il periodo di prova.
 
 # Electronic devices
 
