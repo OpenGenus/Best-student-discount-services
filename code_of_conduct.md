@@ -31,5 +31,5 @@ This Code of Conduct applies to every action within our universe. :artificial_sa
 
 ## In short
 
-> # Everything is good unless no one is sad. 
+>  Everything is good when you are happy. :laughing:
 
