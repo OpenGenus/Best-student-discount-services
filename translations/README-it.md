@@ -52,7 +52,7 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): un periodo di prova di sei mesi che include spedizione in due giorni gratuita, streaming illimitato di film e serie tv Prime, spazio illimitato per le tue foto con Prime Foto, 20% di sconto sui preordini e le nuove uscite di videogiochi, sconti e risparmi esclusivi e molto altro! 50% di sconto sul prezzo base terminato il periodo di prova.
 
-# Electronic devices
+# Prodotti elettronici
 
 * [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Studenti e insegnanti risparmiano il 5% sulla maggiorparte degli acquisti; risparmia fino a 200€ su un nuovo Mac o un nuovo iPad con Apple Education.
 
@@ -66,11 +66,11 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Diventando membro della Sony Student Store ottieni il 10% di sconto su vari prodotti.
 
-# Productivity apps
+# Applicazioni per la produttività
 
-* [Evernote](https://evernote.com/students/): One year of the premium plan for 75% off
+* [Evernote](https://evernote.com/students/): Un anno di abbonamento premium al 50% di sconto.
 
-* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
+* [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Gratis per gli studenti.
 
 # Software
 
