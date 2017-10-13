@@ -140,33 +140,33 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [FedEx](http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html): Sconto del 30% su un documento con FedEx Envelop/Pak e 20% su un pacchetto con il servizio FedEx IP .
 
-# Insurance
+# Assicurazioni
 
 * [StateFarm](https://www.statefarm.com/insurance/auto/discounts/): 25% di sconto se si ha un curriculum scolastico di alto livello.
 
 * [Geico](https://www.geico.com/save/discounts/student-discounts/): Studenti sotto i 25 anni con buoni voti possono ottenere uno sconto del 15%.
 
-# Newspaper Subscription
+# Abbonamenti a giornali
 
-* [Wall Street Journal](https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaqntppp): $49 a year
+* [Wall Street Journal](https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaqntppp): 49$ all'anno.
 
-* [NewYork Times](https://www.nytimes.com/subscriptions/edu/lp8LQFK.html): $1 a week
+* [NewYork Times](https://www.nytimes.com/subscriptions/edu/lp8LQFK.html): $1 a settimana.
 
-* [Economist](https://subscription.economist.com/DE/EngCore/Ecom/Default): Discount varies on plan
+* [Economist](https://subscription.economist.com/DE/EngCore/Ecom/Default): Sconti vari.
 
 # Hotel
 
-* [Planet Hollywood](https://www.caesars.com/planet-hollywood): 15% off on rooms
+* [Planet Hollywood](https://www.caesars.com/planet-hollywood): 15% di sconto su una camera.
 
-* [Harrah's Laughlin](https://www.totalrewards.com/reserve/): 15% off on bookings
+* [Harrah's Laughlin](https://www.totalrewards.com/reserve/): 15% di sconto sulla prenotazione.
 
 # Travel
 
-* [Eurail](http://www.eurail.com/eurail-passes/deals-discounts/youth-discounts): 35% off the regular Adult Fare for students under 25
+* [Eurail](http://www.eurail.com/eurail-passes/deals-discounts/youth-discounts): 35% di sconto sulla tariffa Adulti per studenti sotto i 25 anni.
 
-* [Amtrak](http://www.amtrak.com/student-discount): 10% off on train and bus service
+* [Amtrak](http://www.amtrak.com/student-discount): 10% di sconto su abbonamenti di treni e autobus.
 
-* [Budget Truck Rental](https://www.budgettruck.com/): Up to 20% off truck rental
+* [Budget Truck Rental](https://www.budgettruck.com/): Fino al 20% di sconto sul noleggio di un camion.
 
 * [METROLINK](http://www.metrolinktrains.com/ticketspricing/page/title/discounts): 25% off Monthly Pass, 7-Day Pass, One-Way and Round-Trip tickets
 
