@@ -136,15 +136,15 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Cascio Interstate Music](http://www.interstatemusic.com/): 10% di sconto su ordini superiori a 69€.
 
-# Shipping
+# Spedizioni
 
-* [FedEx](http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html): Discount of 30% off a document with FedEx Envelop/Pak and 20% off a package with FedEx IP service
+* [FedEx](http://www.fedex.com/kr_english/about/local/currentattractions/sdc.html): Sconto del 30% su un documento con FedEx Envelop/Pak e 20% su un pacchetto con il servizio FedEx IP .
 
 # Insurance
 
-* [StateFarm](https://www.statefarm.com/insurance/auto/discounts/): 25% off on keeping good grades
+* [StateFarm](https://www.statefarm.com/insurance/auto/discounts/): 25% di sconto se si ha un curriculum scolastico di alto livello.
 
-* [Geico](https://www.geico.com/save/discounts/student-discounts/): Students under 25 with good grades can get up to a 15% discount
+* [Geico](https://www.geico.com/save/discounts/student-discounts/): Studenti sotto i 25 anni con buoni voti possono ottenere uno sconto del 15%.
 
 # Newspaper Subscription
 
