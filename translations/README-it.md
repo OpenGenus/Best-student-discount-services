@@ -128,13 +128,13 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html): 60% di sconto per gli studenti.
 
-# Music
+# Musica
 
-* [Spotify](https://www.spotify.com/us/student/): $4.99 for students
+* [Spotify](https://www.spotify.com/us/student/): Abbonamento per studenti a 4.99€ al mese.
 
-* [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
+* [Apple Music](https://support.apple.com/en-us/HT205928): Sconto per 4 anni.
 
-* [Cascio Interstate Music](http://www.interstatemusic.com/): 10% off orders over $69
+* [Cascio Interstate Music](http://www.interstatemusic.com/): 10% di sconto su ordini superiori a 69€.
 
 # Shipping
 
