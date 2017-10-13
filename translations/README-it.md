@@ -118,15 +118,15 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html): Gratis per gli studenti.
 
-# Developer Services
+# Servizi per gli sviluppatori
 
-* [HackHands](https://hackhands.com/education/): $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack)
+* [HackHands](https://hackhands.com/education/): 25€ in crediti per la piattaforma via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Amazon Web Services](http://www.awseducate.com/application) - free by joining AWS Educate today
+* [Amazon Web Services](http://www.awseducate.com/application): Gratis entrando nel programma AWS Educate.
 
-* [Send Grid](https://sendgrid.com/partner/github-education) - 15K free emails/month (normally limited to 200 free emails/day) via [Github Student Developer Pack](https://education.github.com/pack)
+* [Send Grid](https://sendgrid.com/partner/github-education): 15K email gratis al mese (normalmente limitato a 200 email al giorno) via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - 60% off for students
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html): 60% di sconto per gli studenti.
 
 # Music
 
