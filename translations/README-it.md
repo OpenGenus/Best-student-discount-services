@@ -74,49 +74,49 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 # Software
 
-### Version control
+### Controllo di versione
 
-* [Tower](http://www.git-tower.com/buy) -  Version control with git. Students get a 50% discount
+* [Tower](http://www.git-tower.com/buy) -  Controllo di versione con git. Gli studenti ottengono uno sconto del 50%.
 
-* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Free for 1 year via [Github Student Developer Pack](https://education.github.com/pack)
+* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Gratis per un anno via [Github Student Developer Pack](https://education.github.com/pack).
 
-### Design and modeling tools
+### Strumenti di design e modellazione
 
-  * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% off on an educational license
+  * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% di sconto su una licenza per studenti.
 
-  * [Axure RP](http://www.axure.com/edu): Free educational license of Axure RP Pro
+  * [Axure RP](http://www.axure.com/edu): Licenza per studenti di Axure RP Pro gratis.
 
-  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students
+  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Account accademici gratis per gli studenti.
 
-  * [Framer](http://framerjs.com/pricing/): 50% off on an educational license
+  * [Framer](http://framerjs.com/pricing/): 50% di sconto su una licenza per studenti.
 
-### Game Development Tools
+### Strumenti per lo sviluppo di videogiochi
 
- * [Unity3D](https://unity3d.com/education): Students are offered a yearly license of $100 USD
+ * [Unity3D](https://unity3d.com/education): Viene offerto agli studenti una licenza annuale a 100€.
 
- * [Unreal Game Engine](https://www.unrealengine.com/education): Free through [Github Student Developer Pack](https://education.github.com/pack)
+ * [Unreal Game Engine](https://www.unrealengine.com/education): Gratis attraverso [Github Student Developer Pack](https://education.github.com/pack).
 
-## IDE and Code Editing
+## IDE e editor di codice
 
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student): Free for students
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student): Gratis per gli studenti.
 
-  * [Xamarin IDE](http://xamarin.com/student): Free for students
+  * [Xamarin IDE](http://xamarin.com/student): Gratis per gli studenti.
 
-  * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
+  * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Gratis per gli studenti.
 
-  * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc
+  * [JetBrains Pack](https://www.jetbrains.com/student/): Ricevi gratuitamente per un anno IDE professionali per lo sviluppo nei linguaggi C/C++/Python/Java/JS/PHP/Ruby/etc.
 
-### 3D Animation and Modeling Software
+### Software per animazione e modellazione 3D
 
- * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate): 3-Year free License for students
+ * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate): Licenza gratuita per 3 anni agli studenti.
 
-### Visual Analytics
+### Visualizzazione di dati
 
-  * [CartoDB](https://cartodb.com/solutions/education-and-research/): Additional space & features for free accounts or 20% discount on paid accounts
+  * [CartoDB](https://cartodb.com/solutions/education-and-research/): Spazio aggiuntivo e ulteriori servizi per gli account gratuiti o 20% di sconto per gli account a pagamento.
 
-  * [Tableau Desktop](https://www.tableau.com/academic/students): One Year free Professional License for Students
+  * [Tableau Desktop](https://www.tableau.com/academic/students): Un anno di licenza professionale gratuita per gli studenti.
 
-  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html): Free for students
+  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html): Gratis per gli studenti.
 
 # Developer Services
 
