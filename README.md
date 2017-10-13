@@ -8,12 +8,13 @@
 	<br>
 </h1>
 
-A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try. 
+A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try.
 
 ***
 
 # translations
 - [中文版本](translations/README-cn.md)
+- [Italiano](translations/README-it.md)
 
 # Table of contents
 
@@ -53,15 +54,15 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Electronic devices
 
-* [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing. 
+* [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing.
 
-* [Microsoft](): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software. 
+* [Microsoft](): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
 
 * [Adobe](): Full-time students can receive discounts on software like 60% off Creative Cloud
 
 * [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offers discounts on laptops, desktops, and more
 
-* [Lenovo](): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school. 
+* [Lenovo](): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school.
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
 
@@ -73,7 +74,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Software
 
-### Version control 
+### Version control
 
 * [Tower](http://www.git-tower.com/buy) -  Version control with git. Students get a 50% discount
 
@@ -85,7 +86,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [Axure RP](http://www.axure.com/edu): Free educational license of Axure RP Pro
 
-  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students 
+  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students
 
   * [Framer](http://framerjs.com/pricing/): 50% off on an educational license
 
@@ -102,7 +103,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Xamarin IDE](http://xamarin.com/student): Free for students
 
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
-  
+
   * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc
 
 ### 3D Animation and Modeling Software
@@ -147,7 +148,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Newspaper Subscription
 
-* [Wall Street Journal](https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaqntppp): $49 a year 
+* [Wall Street Journal](https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaqntppp): $49 a year
 
 * [NewYork Times](https://www.nytimes.com/subscriptions/edu/lp8LQFK.html): $1 a week
 
@@ -173,33 +174,33 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Arby’s](#): Offers a 10% discount at certain locations with your student ID
 
-* [Buffalo Wild Wings](#): Get a 10% discount off those flaming wings with your student ID 
+* [Buffalo Wild Wings](#): Get a 10% discount off those flaming wings with your student ID
 
-* [Burger King](#): 10% discount when you flash your ID 
+* [Burger King](#): 10% discount when you flash your ID
 
 * [Chick-fil-A](#): Get a free small drink to accompany your chicken sandwich and waffle fries (or any meal) when you show your ID
 
 * [Chipotle](#): Offers a free small drink with your meal when you show your student ID
 
-* [Dairy Queen](#): Offers a 10% discount for students with ID. 
+* [Dairy Queen](#): Offers a 10% discount for students with ID.
 
-* [McDonalds](#): 10% discount with your student ID 
+* [McDonalds](#): 10% discount with your student ID
 
 * [Qdoba](#): Offers a free drink for students when you purchase a meal, as well as burrito meals for $5
 
 # Apparel
 
-* [Alex and Ani](#): Students get 10% off in stores with a when you flash a valid school ID. 
+* [Alex and Ani](#): Students get 10% off in stores with a when you flash a valid school ID.
 
 * [ASOS](#): Stay stylish with 10% off ASOS duds
 
-* [Banana Republic](#), [J.Crew](), [The Limited](), [Medelita](), [Madewell](): 15% off 
+* [Banana Republic](#), [J.Crew](), [The Limited](), [Medelita](), [Madewell](): 15% off
 
 * [Club Monaco](#): 20% off regular and sale priced items in any Club Monaco store and online
 
 * [Goodwill](#): 10% discount with student ID
 
-* [TOMS](#): 10% cash back on shoes 
+* [TOMS](#): 10% cash back on shoes
 
 * [Topshop](#): 10% off Topshop apparel in stores and online
 
@@ -213,7 +214,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
 
-* [Thinkful](https://www.thinkful.com/): One month of access to a web development course 
+* [Thinkful](https://www.thinkful.com/): One month of access to a web development course
 
 # Entertainment
 
@@ -231,11 +232,11 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [Digital Ocean](https://www.digitalocean.com) - Provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack)
 
-  * [Gwiddle](https://gwiddle.co.uk) - Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. 
+  * [Gwiddle](https://gwiddle.co.uk) - Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students.
 
-  * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`. 
+  * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`.
 
-# Domain Name 
+# Domain Name
 
   * [NameCheap](http://nc.me) - One year of free domain name registration on the .me TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
@@ -245,4 +246,3 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 <p align="center">
 	<a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
 </p>
-
