@@ -244,5 +244,5 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 ---
 
 <p align="center">
-	<a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
+	<a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
 </p>
