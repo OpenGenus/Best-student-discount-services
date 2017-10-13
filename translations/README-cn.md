@@ -15,6 +15,7 @@
 
 # 语言版本
 - [中文版本](translations/README-cn.md)
+- [Italiano](README-it.md)
 
 # 目录
 
@@ -66,7 +67,7 @@
 
 # 软件
 
-### 版本控制 
+### 版本控制
 
 * [Tower](http://www.git-tower.com/buy) -  学生可以获得 50% 的优惠
 
@@ -95,7 +96,7 @@
   * [Xamarin IDE](http://xamarin.com/student): 对学生免费
 
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): 对学生免费
-  
+
   * [JetBrains Pack](https://www.jetbrains.com/student/): 免费专业的 IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc.
 
 ### 3D动画和建模软件
@@ -162,7 +163,7 @@
 
 * [Buffalo Wild Wings](): 用你的学生证可以获得10％的燃烧翅膀的折扣
 
-* [Burger King](): 享受 10% 的折扣 
+* [Burger King](): 享受 10% 的折扣
 
 * [Chick-fil-A](): 当您显示身份证件时，请提供免费的小饮料来陪伴您的鸡肉三明治和华夫饼（或任何餐点）。
 
@@ -185,4 +186,3 @@
 <p align="center">
 	<a href="https://github.com/imfing/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/imfing/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
 </p>
-
