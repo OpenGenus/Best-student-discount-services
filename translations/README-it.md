@@ -54,17 +54,17 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 
 # Electronic devices
 
-* [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing.
+* [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Studenti e insegnanti risparmiano il 5% sulla maggiorparte degli acquisti; risparmia fino a 200€ su un nuovo Mac o un nuovo iPad con Apple Education.
 
-* [Microsoft](): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
+* [Microsoft](): Risparmia fino a 200€ sul Surface Pro 3, ottieni il 10% di sconto sugli accessori e aggiudicati prezzi speciali sui software.
 
-* [Adobe](): Full-time students can receive discounts on software like 60% off Creative Cloud
+* [Adobe](): Studenti a tempo pieno possono ricevere sconti fino al 60% sulla Creative Cloud Suite.
 
-* [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offers discounts on laptops, desktops, and more
+* [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offre sconti su computer portatili, desktop e molto altro.
 
-* [Lenovo](): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school.
+* [Lenovo](): Lenovo ha un Accademic Purchase Program che offre sconti agli studenti su computer portatili, tablet e computer desktop. Gli sconti possono variare a seconda della tua scuola.
 
-* [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
+* [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Diventando membro della Sony Student Store ottieni il 10% di sconto su vari prodotti.
 
 # Productivity apps
 
