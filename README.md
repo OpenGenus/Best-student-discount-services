@@ -4,7 +4,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="200" src="https://github.com/AdiChat/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
+	<img width="200" src="https://github.com/OpenGenus/Best-student-discount-services/blob/master/assets/logo.png" alt="be happy">
 	<br>
 </h1>
 
@@ -243,6 +243,6 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 ---
 
 <p align="center">
-	<a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/AdiChat/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
+	<a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
 </p>
 
