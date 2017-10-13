@@ -1,4 +1,4 @@
-## I migliori servizi che producono uno sconto studenti
+## I migliori servizi che offrono uno sconto studenti
 
 [![Unisciti alla discussione  https://gitter.im/OpenGenus/Best-student-discount-services](https://badges.gitter.im/AdiChat/Best-student-discount-services.svg)](https://gitter.im/OpenGenus/Best-student-discount-services)
 
