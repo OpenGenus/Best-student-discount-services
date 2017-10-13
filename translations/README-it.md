@@ -13,8 +13,8 @@ Un ID studente :credit_card:  è una chiave :key: che dà accesso :closed_lock_w
 ***
 
 # translations
-- [中文版本](translations/README-cn.md)
-- [Italiano](translations/README-it.md)
+- [中文版本](README-cn.md)
+- [Italiano](README-it.md)
 
 # Table of contents
 
