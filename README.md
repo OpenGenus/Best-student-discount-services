@@ -12,7 +12,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 ***
 
-# translations
+# Translations
 - [中文版本](translations/README-cn.md)
 - [Italiano](translations/README-it.md)
 
@@ -42,9 +42,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [International Student Identity Card](https://www.isic.org/): Any full-time student over 12 years old qualifies for 42,000 discounts in 130 countries
 
-* [Github Student Developer Pack](https://education.github.com/pack): Discounts on several software products offered through Github
+* [GitHub Student Developer Pack](https://education.github.com/pack): Discounts on several software products offered through Github
 
-* [Student Advantage card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on variety of products
+* [Student Advantage Card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on variety of products
 
 * [AWS Educate](https://www.awseducate.com/microsite/CommunitiesEngageHome): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
 
@@ -56,9 +56,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing.
 
-* [Microsoft](): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
+* [Microsoft](https://www.microsoft.com/en-us/education/students/default.aspx): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
 
-* [Adobe](): Full-time students can receive discounts on software like 60% off Creative Cloud
+* [Adobe](https://www.apple.com/us-hed/shop): Full-time students can receive discounts on software like 60% off Creative Cloud
 
 * [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offers discounts on laptops, desktops, and more
 
@@ -78,7 +78,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Tower](http://www.git-tower.com/buy) -  Version control with git. Students get a 50% discount
 
-* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Free for 1 year via [Github Student Developer Pack](https://education.github.com/pack)
+* [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Free for 1 year via [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ### Design and modeling tools
 
