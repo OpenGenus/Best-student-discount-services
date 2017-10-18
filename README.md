@@ -52,6 +52,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Prime movies and TV shows, unlimited photo storage with Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the period
 
+* [Microsoft Imagine](https://imagine.microsoft.com/en-us/Catalog/Product/99): pack of Microsoft cloud services like Azure, for deploying projects, free for students.
+
 # Electronic devices
 
 * [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing.
