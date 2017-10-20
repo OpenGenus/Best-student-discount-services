@@ -8,7 +8,7 @@
 	<br>
 </h1>
 
-A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuffs :tada: that can make life better. This is a list of best services that offer student discounts that a student must try.
+A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: several deals and free stuff :tada: that can make life better. This is a list of the best services that offer student discounts that students must try.
 
 ***
 
@@ -44,13 +44,13 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [GitHub Student Developer Pack](https://education.github.com/pack): Discounts on several software products offered through Github
 
-* [Student Advantage Card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on variety of products
+* [Student Advantage Card](http://www.studentadvantage.com/discountcard/): Save money on over 100 national brands on a variety of products
 
 * [AWS Educate](https://www.awseducate.com/microsite/CommunitiesEngageHome): credits to access AWS services for free. Free labs on services such as EC2, S3, and others
 
 * [Microsoft Education](https://www.microsoft.com/en-in/education/students/default.aspx): Free Micrsoft Office 365 and other discounts on MS products
 
-* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Prime movies and TV shows, unlimited photo storage with Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the period
+* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011): a six-month trial that includes Free Two-Day Shipping, unlimited streaming of Amazon Prime movies and TV shows, unlimited photo storage with Amazon Prime Photos, 20% off pre-order and new release video games, exclusive deals and savings, and more! 50% off after the six-month trial period
 
 * [Microsoft Imagine](https://imagine.microsoft.com/en-us/Catalog/Product/99): pack of Microsoft cloud services like Azure, for deploying projects, free for students.
 
@@ -94,7 +94,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 ### Game Development Tools
 
- * [Unity3D](https://unity3d.com/education): Students are offered a yearly license of $100 USD
+ * [Unity3D](https://unity3d.com/education): Students are offered a yearly license for $100 USD
 
  * [Unreal Game Engine](https://www.unrealengine.com/education): Free through [Github Student Developer Pack](https://education.github.com/pack)
 
@@ -106,7 +106,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
 
-  * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc
+  * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
 
 ### 3D Animation and Modeling Software
 
@@ -132,7 +132,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Music
 
-* [Spotify](https://www.spotify.com/us/student/): $4.99 for students
+* [Spotify](https://www.spotify.com/us/student/): $4.99/month for students
 
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
 
@@ -240,7 +240,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Domain Name
 
-  * [NameCheap](http://nc.me) - One year of free domain name registration on the .me TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
+  * [NameCheap](http://nc.me) - One year of free domain name registration on the `.me` TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
 
 ---
