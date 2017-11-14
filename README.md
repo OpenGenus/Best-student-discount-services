@@ -92,6 +92,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [Framer](http://framerjs.com/pricing/): 50% off on an educational license
 
+  * [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs,flowcharts, organisational     	charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student 	 id to get unlimited access)
 ### Game Development Tools
 
  * [Unity3D](https://unity3d.com/education): Students are offered a yearly license of $100 USD
