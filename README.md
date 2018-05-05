@@ -131,6 +131,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - 60% off for students
 
+* [Domino Cloud Environment](https://www.dominodatalab.com/domino-for-good/for-students/) - free computational power to work on data science projects
+
 # Music
 
 * [Spotify](https://www.spotify.com/us/student/): $4.99/month for students
