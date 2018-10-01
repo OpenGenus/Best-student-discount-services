@@ -243,6 +243,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`.
 
+  * [Siteground](https://www.siteground.com/student-hosting.htm) - Provides hosting for 1 webiste at $1.99/mo for one year.
+
 # Domain Name
 
   * [NameCheap](http://nc.me) - One year of free domain name registration on the `.me` TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
