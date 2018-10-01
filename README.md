@@ -74,6 +74,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
+* [Notion](http://notion.so/): Free for students
+
 # Software
 
 ### Version control
@@ -240,6 +242,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Gwiddle](https://gwiddle.co.uk) - Provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students.
 
   * [RoseHosting](https://www.rosehosting.com)  - Offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code `STUDENT20`.
+
+  * [Siteground](https://www.siteground.com/student-hosting.htm) - Provides hosting for 1 webiste at $1.99/mo for one year.
 
 # Domain Name
 
