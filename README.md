@@ -74,6 +74,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
+* [Taskade](https://taskade.com/): Free to use. 50% off Taskade Pro forever with coupon code: students50
+
+
 # Software
 
 ### Version control
