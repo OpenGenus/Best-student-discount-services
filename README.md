@@ -26,6 +26,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 * [Music](#music)
 * [Shipping](#shipping)
 * [Insurance](#insurance)
+* [Credit Cards](#credit-cards)
 * [Newspaper Subscription](#newspaper-subscription)
 * [Hotel](#hotel)
 * [Travel](#travel)
@@ -71,8 +72,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Productivity apps
 
 * [Evernote](https://evernote.com/students/): One year of the premium plan for 50% off
-
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
+* [Notion](https://www.notion.so/students): Free note-taking app for students
 
 # Software
 
@@ -85,13 +86,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 ### Design and modeling tools
 
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% off on an educational license
-
   * [Axure RP](http://www.axure.com/edu): Free educational license of Axure RP Pro
-
   * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic): Free academic accounts for students
-
   * [Framer](http://framerjs.com/pricing/): 50% off on an educational license
-
   * [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs,flowcharts, organisational     	charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student 	 id to get unlimited access)
 ### Game Development Tools
 
@@ -99,7 +96,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
  * [Unreal Game Engine](https://www.unrealengine.com/education): Free through [Github Student Developer Pack](https://education.github.com/pack)
 
-## IDE and Code Editing
+### IDE and Code Editing
 
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student): Free for students
 
@@ -112,14 +109,17 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 ### 3D Animation and Modeling Software
 
  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate): 3-Year free License for students
+ * [SketchUp](https://www.sketchup.com/plans-and-pricing-promo#for-primary-and-secondary-education): 3D modeling app. Free on browser, discounted for students and educators. Code for limited time: GOODWILLSHOP
 
 ### Visual Analytics
 
   * [CartoDB](https://cartodb.com/solutions/education-and-research/): Additional space & features for free accounts or 20% discount on paid accounts
-
   * [Tableau Desktop](https://www.tableau.com/academic/students): One Year free Professional License for Students
-
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html): Free for students
+
+### Email Tracker
+
+  * [Email Tracker](https://chrome.google.com/webstore/detail/email-tracker/bnompdfnhdbgdaoanapncknhmckenfog): Free for all. Good software to have when applying for jobs.
 
 # Developer Services
 
@@ -148,8 +148,11 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Insurance
 
 * [StateFarm](https://www.statefarm.com/insurance/auto/discounts/): 25% off on keeping good grades
+* [Geico](https://www.geico.com/save/discounts/student-discounts/): Students under 25 with good grades can get up to a 15% discount. PTK International Honor Society Members will get more.
 
-* [Geico](https://www.geico.com/save/discounts/student-discounts/): Students under 25 with good grades can get up to a 15% discount
+# Credit Cards
+
+* [Discover It Credit Card](https://refer.discover.com/s/qbrul0514): Students get $20 rewards each school year
 
 # Newspaper Subscription
 
@@ -218,8 +221,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Courses
 
 * [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
-
 * [Thinkful](https://www.thinkful.com/): One month of access to a web development course
+* [Coursera](https://www.coursera.org/): Most courses from Ivy Leagues are free.
 
 # Entertainment
 
@@ -244,7 +247,6 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Domain Name
 
   * [NameCheap](http://nc.me) - One year of free domain name registration on the `.me` TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
-
 
 ---
 
