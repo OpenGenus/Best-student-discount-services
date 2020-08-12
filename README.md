@@ -18,25 +18,33 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Table of contents
 
-* [Collective discounts](#collective-discounts)
-* [Electronic devices](#electronic-devices)
-* [Productivity apps](#productivity-apps)
-* [Software](#software)
-* [Developer Services](#developer-services)
-* [Music](#music)
-* [Shipping](#shipping)
-* [Insurance](#insurance)
-* [Newspaper Subscription](#newspaper-subscription)
-* [Hotel](#hotel)
-* [Travel](#travel)
-* [Food](#food)
-* [Apparel](#apparel)
-* [Vehicles](#vehicles)
-* [Courses](#courses)
-* [Entertainment](#entertainment)
-* [Lens and spectacles](#lens-and-spectacles)
-* [Web hosting](#web-hosting)
-* [Domain name](#domain-name)
+- [Translations](#translations)
+- [Table of contents](#table-of-contents)
+- [Collective discounts](#collective-discounts)
+- [Electronic devices](#electronic-devices)
+- [Productivity apps](#productivity-apps)
+- [Software](#software)
+    - [Version control](#version-control)
+    - [Design and modeling tools](#design-and-modeling-tools)
+    - [Game Development Tools](#game-development-tools)
+  - [IDE and Code Editing](#ide-and-code-editing)
+    - [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
+    - [Visual Analytics](#visual-analytics)
+- [Developer Services](#developer-services)
+- [Music](#music)
+- [Shipping](#shipping)
+- [Insurance](#insurance)
+- [Newspaper Subscription](#newspaper-subscription)
+- [Hotel](#hotel)
+- [Travel](#travel)
+- [Food](#food)
+- [Apparel](#apparel)
+- [Vehicles](#vehicles)
+- [Courses](#courses)
+- [Entertainment](#entertainment)
+- [Lens and spectacles](#lens-and-spectacles)
+- [Web Hosting](#web-hosting)
+- [Domain Name](#domain-name)
 
 # Collective discounts
 
@@ -74,6 +82,10 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
+* [Notion](https://www.notion.so/): Notes and Tasks App, Offers Premium plans free to students and teachers. 
+
+
+
 # Software
 
 ### Version control
@@ -108,6 +120,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
 
   * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
+
 
 ### 3D Animation and Modeling Software
 
