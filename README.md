@@ -68,11 +68,15 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
 
+* [Logitech](https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount): Students can get 25% off purchases at Logitech.com
+
 # Productivity apps
 
 * [Evernote](https://evernote.com/students/): One year of the premium plan for 50% off
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
+
+* [Ulysses](https://ulysses.app/students/): Almost 50% on a subscription
 
 # Software
 
@@ -140,6 +144,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
 
 * [Cascio Interstate Music](http://www.interstatemusic.com/): 10% off orders over $69
+
+* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discont for full time students 
 
 # Shipping
 
