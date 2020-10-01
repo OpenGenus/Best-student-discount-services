@@ -68,7 +68,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
 
-* [Logitech](https://collegeinfogeek.com/student-discounts/): Students can get 25% off purchases at Logitech.com
+* [Logitech](https://buy.logitech.com/store/logieu/en_GB/custom/pbPage.student-discount): Students can get 25% off purchases at Logitech.com
 
 # Productivity apps
 
