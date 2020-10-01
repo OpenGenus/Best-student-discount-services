@@ -250,6 +250,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Domain Name
 
   * [NameCheap](http://nc.me) - One year of free domain name registration on the `.me` TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
+  * [.Tech Domains](https://get.tech) - One standard `.tech` domain free for 1 year and 2 free email accounts with 100 MB free storage TLD ($29.99/year) via [Github Student Developer Pack(https://education.github.com/pack)
 
 
 ---
