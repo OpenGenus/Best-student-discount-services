@@ -60,11 +60,9 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft](https://www.microsoft.com/en-us/education/students/default.aspx): Save up to $194 on a Surface Pro 3, get 10% off accessories, and get special pricing on software.
 
-* [Adobe](https://www.apple.com/us-hed/shop): Full-time students can receive discounts on software like 60% off Creative Cloud
-
 * [Dell](http://www.dell.com/learn/us/en/6099/campaigns/welcome-to-dell-university): offers discounts on laptops, desktops, and more
 
-* [Lenovo](): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school.
+* [Lenovo](https://www.lenovo.com/us/en/landingpage/students-and-teachers/): Lenovo has an Academic Purchase Program that offers student discounts on laptops, tablets, and desktop computers. Discounts vary depending on your school.
 
 * [Sony](http://store.sony.com/gsi/webstore/WFS/SNYNA-SNYUS-Site/en_US/-/USD/ViewPurchasePrograms-EDULandingPage): Through Sony Student Store membership, get 10% off merchandise
 
@@ -76,13 +74,21 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
+* [Notion](https://www.notion.so/students): Free for students
+
 * [Ulysses](https://ulysses.app/students/): Almost 50% on a subscription
 
 # Software
 
+### General
+
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - 60% off for students (all Creative Cloud apps)
+
+* [Apple Pro Apps Bundle](https://www.apple.com/us-hed/shop/product/BMGE2Z/A/pro-apps-bundle-for-education) - Final Cut Pro X, Logic Pro X, Motion 5, Compressor 4, and MainStage 3 for $200 USD
+
 ### Version control
 
-* [Tower](http://www.git-tower.com/buy) -  Version control with git. Students get a 50% discount
+* [Tower](http://www.git-tower.com/buy) - Version control with git. Students get a 50% discount
 
 * [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Free for 1 year via [GitHub Student Developer Pack](https://education.github.com/pack)
 
@@ -97,6 +103,13 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Framer](http://framerjs.com/pricing/): 50% off on an educational license
 
   * [Lucidchart](https://www.lucidchart.com/pages/usecase/education): Free professional software for DFDs,flowcharts, organisational     	charts, website wireframes, UML designs, mind maps, software prototypes, and many other diagram types (Use learner college student 	 id to get unlimited access)
+
+### Digital Audio Workstations (DAWs)
+
+* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% discount for full time students
+
+* [Cubase](https://www.steinberg.net/en/shop/education.html): 40% discount for full time students
+
 ### Game Development Tools
 
  * [Unity3D](https://unity3d.com/education): Students are offered a yearly license for $100 USD
@@ -112,6 +125,10 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license): Free for students
 
   * [JetBrains Pack](https://www.jetbrains.com/student/): Free professional IDEs for C/C++/Python/Java/JS/PHP/Ruby/etc for students
+
+### Security
+
+* [Little Snitch](https://www.studentappcentre.com/App/Little_Snitch): 30% discount for students
 
 ### 3D Animation and Modeling Software
 
@@ -133,8 +150,6 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Send Grid](https://sendgrid.com/partner/github-education) - 15K free emails/month (normally limited to 200 free emails/day) via [Github Student Developer Pack](https://education.github.com/pack)
 
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - 60% off for students
-
 * [Domino Cloud Environment](https://www.dominodatalab.com/domino-for-good/for-students/) - free computational power to work on data science projects
 
 # Music
@@ -144,8 +159,6 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 * [Apple Music](https://support.apple.com/en-us/HT205928): Discount for 4 years
 
 * [Cascio Interstate Music](http://www.interstatemusic.com/): 10% off orders over $69
-
-* [Ableton Live](https://www.ableton.com/en/shop/education/#eligibility): 40% Discont for full time students 
 
 # Shipping
 
@@ -251,6 +264,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
   * [NameCheap](http://nc.me) - One year of free domain name registration on the `.me` TLD ($18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
+  * [Name.com](https://www.name.com/partner/github-students) - One year of free domain name registration for one of 25 eligible TLDs via [Github Student Developer Pack](https://education.github.com/pack)
 
 ---
 
