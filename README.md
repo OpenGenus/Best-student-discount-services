@@ -136,6 +136,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - 60% off for students
 
 * [Domino Cloud Environment](https://www.dominodatalab.com/domino-for-good/for-students/) - free computational power to work on data science projects
+* [Crawlbase](https://crawlbase.com/) - Crawlbase is a user-friendly tool for web crawling and scraping. Students can benefit from 5000 free requests by using the coupon code 'SDNT2023'.
 
 # Music
 
