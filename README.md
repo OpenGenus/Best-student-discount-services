@@ -226,6 +226,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 * [Faltiron School](https://flatironschool.com/): Free one-month membership ($149 value) to Community-Powered Bootcamp
 
 * [Thinkful](https://www.thinkful.com/): One month of access to a web development course
+* [Illumeo](https://www.illumeo.com/): llumeo is delighted to extend a special offer this holiday season for a Happy New Year and Merry Christmas! Save up to 20% off on your CPE with exclusive deal.
 
 # Entertainment
 
