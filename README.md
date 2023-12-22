@@ -227,6 +227,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Thinkful](https://www.thinkful.com/): One month of access to a web development course
 
+* [ILLUMEO](https://www.illumeo.com/):  Illumeo is delighted to extend a special offer for a Happy New Year and Merry Christmas! Save up to 20% off on your CPE with exclusive deal.
+
 # Entertainment
 
 * [Cinemark](http://www.cinemark.com/discounts-student-discounts): Get discounts on movie tickets; 25% OFF pre-paid movie tickets through [SA card](http://www.studentadvantage.com/discountcard/)
