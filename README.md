@@ -127,6 +127,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 # Developer Services
 
+* [Microsoft Azure](https://azure.microsoft.com/free/students/): $100 credit with your free Azure for Students account—no credit card required via [Github Student Developer Pack](https://education.github.com/pack)
+
 * [HackHands](https://hackhands.com/education/): $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack)
 
 * [Amazon Web Services](http://www.awseducate.com/application) - free by joining AWS Educate today
