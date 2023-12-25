@@ -83,6 +83,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 ### Version control
 
 * [Tower](http://www.git-tower.com/buy) -  Version control with git. Students get a 50% discount
+* * [Crawlbase](https://crawlbase.com/) -  Unlock the power of data with Crawlbase, the ultimate data crawling and scraping tool. Experience the next level of efficiency with 5000 free requests using promo code SDNT2023.
 
 * [GitKraken PRO](https://www.gitkraken.com/github-student-developer-pack) - Free for 1 year via [GitHub Student Developer Pack](https://education.github.com/pack)
 
