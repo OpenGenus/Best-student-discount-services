@@ -74,6 +74,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Evernote](https://evernote.com/students/): One year of the premium plan for 50% off
 
+* [Kilobat Pro](https://kilobat.app/students): Free for one year on two Macs for eligible students, renewable while studying with a school email
+
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
 * [Ulysses](https://ulysses.app/students/): Almost 50% on a subscription
