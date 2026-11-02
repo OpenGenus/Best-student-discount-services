@@ -54,6 +54,8 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 
 * [Microsoft Imagine](https://imagine.microsoft.com/en-us/Catalog/Product/99): pack of Microsoft cloud services like Azure, for deploying projects, free for students.
 
+* [FreeDiscountCoupons](https://freediscountcoupons.com): Find verified coupon codes and promo deals from thousands of stores including Namecheap, Bluehost, and NordVPN to save money on student purchases.
+
 # Electronic devices
 
 * [Apple](http://store.apple.com/us/browse/campaigns/education_pricing): Students and educators save 5% off most purchases; save up to $200 on a new Mac or a new iPad with Apple’s Education pricing.
