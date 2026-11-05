@@ -73,6 +73,7 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 # Productivity apps
 
 * [Evernote](https://evernote.com/students/): One year of the premium plan for 50% off
+* [Glasp](https://glasp.co/students): Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
 
 * [Microsoft Office 365](https://www.microsoft.com/en-in/education/students/default.aspx): Free for students
 
